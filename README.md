@@ -6,9 +6,9 @@
 yritys | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 päivät |   |   |   |   |   |   |   |   |   |  | 
-  First Header | Second Header
+   | 
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+ 1 | 2
+   | 
 
 ###### <h2> powered by salpauksen hyvikset https://www.salpaus.fi/opiskelija/
