@@ -6,9 +6,10 @@
 yritys | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 päivät |   |   |   |   |   |   |   |   |   |  | 
-   | 
+
+
+a | b
 ------------ | -------------
  1 | 2
-   | 
 
-###### <h2> powered by salpauksen hyvikset https://www.salpaus.fi/opiskelija/
+###### powered by salpauksen hyvikset https://www.salpaus.fi/opiskelija/
