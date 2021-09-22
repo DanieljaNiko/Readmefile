@@ -12,4 +12,4 @@ a | b
 ------------ | -------------
  1 | 2
 
-###### powered by salpauksen hyvikset https://www.salpaus.fi/opiskelija/
+[powered by salpauksen hyvikset](https://www.salpaus.fi/opiskelija/)  
