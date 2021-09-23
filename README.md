@@ -13,10 +13,10 @@ a | b
  1 | 2
 
 
-ABCd | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+ABCd | #1 | #2 | #3 | #4 |
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-komponentit | photon |LED P 8mm   |vastus 220ohm   |   |   |   |   |   |   |  | 
- Hinta|28,90€| 0,65€| 0,25€ |--- |--- |--- |--- |--- |--- |--- |---
+komponentit | photon |LED P 8mm   |vastus 220ohm   | koekytkentä levy  |  
+ Hinta|28,90€| 0,65€| 0,25€ |5,00€ |
 
 
 
