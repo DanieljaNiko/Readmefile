@@ -15,8 +15,12 @@ a | b
 
 
 abc | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
-komponentit| photon | LED p 8mm | vastus 220ohm|koekutkentä levy |--- |--- |--- |--- |--- |--- |---
-hinta |28,90€   | 0,65€  | 0,25€  |5,00€   |   |   |   |   |   |  | 
+komponentit| photon | LED p 8mm | vastus 220ohm|koekutkentä levy 
+hinta |28,90€   | 0,65€  | 0,25€  |5,00€   | 
+yritys | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+komponetit |   |   |   |   |   |   |   |   |   |  | 
+hinta  |   |   |   |   |   |   |   |   |   |  | 
 
 
 [powered by salpauksen hyvikset](https://www.salpaus.fi/opiskelija/)  
