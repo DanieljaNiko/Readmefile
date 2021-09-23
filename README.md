@@ -12,4 +12,8 @@ a | b
 ------------ | -------------
  1 | 2
 
+
+ABCd | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+komponentit |  |   |   |   |   |   |   |   |   |  | 
 [powered by salpauksen hyvikset](https://www.salpaus.fi/opiskelija/)  
