@@ -22,7 +22,7 @@ hinta  |28,90€   | 0,65€  | 0,25€  | 5,00€  |   |   |   |   |   |  |
 
 [powered by salpauksen hyvikset](https://www.salpaus.fi/opiskelija/)  
 
-  |     | 
-  |     |
+  |  abc   | 
+  |     abc|
   |     |
   |     |
