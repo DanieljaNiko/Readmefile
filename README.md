@@ -25,4 +25,8 @@ hinta  |28,90€   | 0,65€  | 0,25€  | 5,00€  |   |   |   |   |   |  |
  idea oli saada vihreä keltainen ja punainen led valo palamaan yksi kerralaan tietyn aikaa.
  
  
- var example = true
+```javascript
+if (isAwesome){
+  return true
+}
+```
