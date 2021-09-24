@@ -23,4 +23,5 @@ hinta  |28,90€   | 0,65€  | 0,25€  | 5,00€  |   |   |   |   |   |  |
 [powered by salpauksen hyvikset](https://www.salpaus.fi/opiskelija/)  
 
  idea oli saada vihreä keltainen ja punainen led valo palamaan yksi kerralaan tietyn aikaa.
-*BALD*
+kdajfjfaf {ajfjkdkfjka
+}
